@@ -136,8 +136,8 @@ export const menuData: MenuCategory[] = [
     name: "Tajine",
     icon: "Utensils",
     items: [
-      { id: "tj1", name: "Poulet au citron", price: 30 },
-      { id: "tj2", name: "Kefta", price: 30 },
+      { id: "tj1", name: "Tajine poulet au citron", price: 30 },
+      { id: "tj2", name: "Tajine Kefta", price: 30 },
     ],
   },
 ];
